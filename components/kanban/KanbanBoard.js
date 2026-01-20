@@ -7,9 +7,9 @@ import KanbanColumn from './KanbanColumn';
 import { cn } from '@/lib/utils';
 
 const columns = [
-  { id: 'todo', title: 'To Do', color: 'blue' },
-  { id: 'in-progress', title: 'In Progress', color: 'amber' },
-  { id: 'complete', title: 'Complete', color: 'green' },
+  { id: 'todo', title: 'Need to do', color: 'blue' },
+  { id: 'in-progress', title: 'Doing', color: 'amber' },
+  { id: 'complete', title: 'Done', color: 'green' },
 ];
 
 const priorities = [

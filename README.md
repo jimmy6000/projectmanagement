@@ -4,7 +4,7 @@ A clean, minimal dark mode project management application for Vibe Coders.
 
 ## Features
 
-- **Kanban Board**: Drag-and-drop cards between three columns (To Do, In Progress, Complete)
+- **Kanban Board**: Drag-and-drop cards between three columns (Need to do, Doing, Done)
 - **Todo List**: Simple checkbox-based task list in the sidebar
 - **Notes**: Auto-saving notes area with debounced persistence
 - **Local Storage**: All data persists across sessions using localStorage
